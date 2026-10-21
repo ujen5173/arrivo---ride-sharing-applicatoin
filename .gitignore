@@ -1,0 +1,17 @@
+
+node_modules
+
+.turbo
+
+dist
+
+.expo
+
+.env
+
+.env.local
+
+*.log
+
+.DS_Store
+
