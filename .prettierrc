@@ -11,6 +11,8 @@
 
   "plugins": ["prettier-plugin-tailwindcss"],
 
+  "tailwindConfig": "./apps/mobile/tailwind.config.js",
+
   "tailwindFunctions": ["cn", "cva"]
 
 }
